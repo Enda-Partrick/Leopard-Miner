@@ -37,7 +37,7 @@ install() {
     echo "安装结束!"
     echo "后台管理地址(请以实际外网IP为准): http://$(curl --silent ifconfig.me):9888"
     echo
-    cat /etc/leopardmine/config.yml
+    cat /etc/leopardminer/config.yml
 }
 
 uninstall() {
