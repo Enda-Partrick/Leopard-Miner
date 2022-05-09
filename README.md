@@ -19,7 +19,9 @@ yum update -y && yum install curl -y
 ```
 安装好 curl 之后就能安装脚本了
 ## 查看运行情况
+```
 systemctl status leopardminer
+```
 # Windows 直接下载运行
 https://github.com/Enda-Partrick/Leopard-Miner/releases
 # Leopard Miner - 联系邮箱 minerleopard@gmail.com
